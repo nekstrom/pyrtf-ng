@@ -1,3 +1,7 @@
+2009.12.18
+
+* Renamed the exceptions module and updated one of the contained classes.
+
 2009.10.27
 
 * Convert merged_cells to unit tests.
