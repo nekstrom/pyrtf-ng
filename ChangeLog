@@ -1,5 +1,6 @@
 2009.12.18
 
+* Updated the admin script to use the new bzr-svn plugin syntax.
 * Renamed the exceptions module and updated one of the contained classes.
 
 2009.10.27
